@@ -5,13 +5,6 @@ Runs on a **Raspberry Pi** connected to a small display, showing upcoming bus an
 
 ---
 
-# Lowell Transit Tracker
-
-A live **bus and commuter rail departure board** built for the **Lowell Regional Transit Authority (LRTA)** and **MBTA Lowell Line**.  
-Runs on a **Raspberry Pi** connected to a small display, showing upcoming bus and train times in a clean, station-style interface.
-
----
-
 ## 🚉 Features
 
 - Displays **real-time MBTA commuter rail departures** from Lowell Station  
